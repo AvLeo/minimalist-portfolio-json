@@ -1,275 +1,219 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Leonardo Avila",
+    "label": "Full Stack Developer with over 2 years of experience and more than 1 year in creating programming content for courses and workshops.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "leito.avila.sm@gmail.com",
+    "phone": "+54 9 2644709107",
+    "url": "https://github.com/AvLeo",
+    "summary": "IT Technician, currently focused on Full-Stack Web Development. My passion for technology has led me to be self-taught, always seeking to learn and improve my skills.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "",
+      "city": "Mendoza",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Leonardo Avila",
+        "url": "https://www.linkedin.com/in/avila-leonardo/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "AvLeo",
+        "url": "https://github.com/AvLeo"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Programming School",
+      "position": "Technology Instructor",
+      "startDate": "2023-05-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "I provide programming courses in JavaScript, HTML, CSS, and Java (backend-oriented). The courses I teach are: JavaScript from Scratch and Java for Backend.",
       "highlights": [
-        "Started the company"
+        "Provided technology training for teenagers and adults."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Casa del Futuro",
+      "position": "Technology Instructor",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "I provide courses in computer repair and WAN/LAN network configuration. I teach programming in JavaScript, HTML, CSS, and Java.",
       "highlights": [
-        "Started the company"
+        "Provided technology training for teenagers and adults."
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Conectar Lab",
+      "position": "Technology Instructor",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "I teach programming courses in C (Arduino), robotics, and basic electronics for children and teenagers.",
       "highlights": [
-        "Started the company"
+        "Encouraged interest in technology among young people."
+      ]
+    },
+    {
+      "name": "V° Hipodromo - Godoy Cruz",
+      "position": "IT Technician",
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Assembled, maintained, and repaired computers. Configured WAN/LAN networks, subnets, WiFi, and CCTV systems. Supported systems and network management.",
+      "highlights": [
+        "Improved the efficiency and security of the technological infrastructure."
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "ITU",
+      "url": "",
+      "area": "Industrial Production and Automation",
+      "studyType": "Higher Technician",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Esc. Normal Sup. Gral. San Martin",
+      "url": "",
+      "area": "Economics and Management of Organizations",
+      "studyType": "High School",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend"
+        "Web Development",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Framework",
+        "JavaScript",
+        "Fullstack"
       ]
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Native"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "bot-discord",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Discord bot developed to automate tasks and enhance interaction on Discord servers. Created with the main objective of assisting students at 'Escuela de Programación de Godoy Cruz', managing roles, managing 'Reduced Classrooms', among others. Uses Discord.js and Google APIs.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Implementation of custom commands.",
+        "Automation of repetitive tasks on Discord.",
+        "Division of channels into 'Reduced Classrooms'.",
+        "Student attendance assistance at 'Escuela de Programación de Godoy Cruz'.",
+        "Use of Discord.js and Google APIs."
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/AvLeo/bot-discord"
     },
     {
-      "name": "AdventJS",
+      "name": "wspbot-cdf",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "WhatsApp bot developed to facilitate real-time customer assistance, providing information about the courses/workshops held at Casa del Futuro. Uses the whatsapp-web.js library.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Development of automated messaging functions.",
+        "Integration with whatsapp-web.js library.",
+        "Real-time course/workshop information retrieval.",
+        "Requesting course/workshop certificates."
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://github.com/AvLeo/wspbot-cdf"
     },
     {
-      "name": "Codember",
+      "name": "JavaScript from Scratch",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "JavaScript from Scratch course with HTML and CSS.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "Development of fundamental JavaScript concepts.",
+        "Practical examples with HTML and CSS."
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/AvLeo/Javascript-desde-cero-EDP"
     }
   ]
 }

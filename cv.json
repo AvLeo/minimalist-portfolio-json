@@ -1,24 +1,24 @@
 {
   "basics": {
     "name": "Leonardo Avila",
-    "label": "Técnico Informático en constante evolución y formación, actualmente enfocado en el área de Desarrollo Web Full-Stack.",
+    "label": "Full Stack Developer con más de 2 años de experiencia y más de 1 año en la creación de contenido de programación para cursos y talleres.",
     "image": "/me.webp",
     "email": "leito.avila.sm@gmail.com",
     "phone": "+54 9 2644709107",
     "url": "https://github.com/AvLeo",
-    "summary": "Soy un apasionado Técnico Informático en constante evolución y formación, actualmente enfocado en el área de Desarrollo Web Full-Stack. Mi pasión por la tecnología y el desarrollo web me ha llevado a convertirme en autodidacta, siempre ávido de aprender y mejorar mis habilidades.",
+    "summary": "Técnico Informático, actualmente enfocado en Desarrollo Web Full-Stack. Mi pasión por la tecnología me ha llevado a ser autodidacta, siempre buscando aprender y mejorar mis habilidades.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "El Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Mendoza",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "Leonardo Avila",
-        "url": "https://linkedin.com/in/avila-leonardo"
+        "url": "https://www.linkedin.com/in/avila-leonardo/"
       },
       {
         "network": "GitHub",
@@ -29,112 +29,191 @@
   },
   "work": [
     {
-      "name": "Freelance",
-      "position": "Desarrollador Full-Stack",
-      "url": "",
-      "startDate": "2009-01-01",
+      "name": "Escuela de Programación",
+      "position": "Capacitador en Tecnologías",
+      "startDate": "2023-05-01",
       "endDate": null,
-      "summary": "Desarrollo de aplicaciones web completas, desde el frontend hasta el backend, utilizando diversas tecnologías y frameworks.",
+      "summary": "Brindo cursos de programación en JavaScript, HTML, CSS y Java (orientado a backend). Los cursos que imparto son: JavaScript desde Cero y Java para Backend",
       "highlights": [
-        "Implementación de sistemas completos de gestión de contenidos.",
-        "Optimización de bases de datos y rendimiento de aplicaciones."
+        "Brindé formación en tecnologías para adolescentes y adultos."
+      ]
+    },
+    {
+      "name": "Casa del Futuro",
+      "position": "Capacitador en Tecnologías",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "Brindo cursos de reparación de computadoras y configuración de redes WAN/LAN. Enseño programación en JavaScript, HTML, CSS y Java",
+      "highlights": [
+        "Brindé formación en tecnologías para adolescentes y adultos."
+      ]
+    },
+    {
+      "name": "Conectar Lab",
+      "position": "Capacitador en Tecnologías",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "Imparto cursos de programación en C (Arduino), robótica y electrónica inicial para niños y adolescentes.",
+      "highlights": [
+        "Fomenté el interés en la tecnología entre los jóvenes."
+      ]
+    },
+    {
+      "name": "V° Hipodromo - Godoy Cruz",
+      "position": "Técnico Informático",
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Armado, mantenimiento y reparación de computadoras. Configuración de redes WAN/LAN, subredes y WiFi, y sistemas CCTV. Apoyo en la gestión de sistemas y redes.",
+      "highlights": [
+        "Mejoré la eficiencia y seguridad de la infraestructura tecnológica."
       ]
     }
   ],
-  "education": [{
-    "institution": "Universidad Nacional de San Juan",
-    "url": "https://www.unsj.edu.ar/",
-    "area": "Ingeniería en Informática",
-    "studyType": "Grado",
-    "startDate": "2005-01-01",
-    "endDate": "2010-01-01",
-    "score": "4.0",
-    "courses": [
-      "Base de Datos",
-      "Programación Orientada a Objetos",
-      "Desarrollo Web"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "ITU",
+      "url": "",
+      "area": "Prod. Industrial y Automatización",
+      "studyType": "Técnico Superior",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Esc. Normal Sup. Gral. San Martin",
+      "url": "",
+      "area": "Economía y Gestión de las Org.",
+      "studyType": "Secundario",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
       "name": "Node.js",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermedio",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": [
+        "Framework",
+        "JavaScript",
+        "Fullstack"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     }
   ],
   "projects": [
     {
-      "name": "Rick and Morty API",
-      "isActive": true,
-      "description": "API que utiliza HTML, CSS y JavaScript para consumir datos de la serie Rick and Morty.",
-      "highlights": [
-        "Desarrollo de una API interactiva.",
-        "Implementación de funciones de frontend y backend."
-      ],
-      "url": "https://avleo.github.io/rick-and-morty-api/"
-    },
-    {
       "name": "bot-discord",
       "isActive": true,
-      "description": "Bot de Discord desarrollado para la automatización de tareas y mejora de la interacción en servidores de Discord.",
+      "description": "Bot de Discord desarrollado para la automatización de tareas y mejora de la interacción en servidores de Discord. Creado con el principal objetivo de facilitar la Asistencia de Alumnos en 'Escuela de Programación de Godoy Cruz', Gestionar roles, Gestión de 'Aulas reducidas', entre otros. Utiliza Discord.js y Google APIs.",
       "highlights": [
         "Implementación de comandos personalizados.",
-        "Automatización de tareas repetitivas en Discord."
+        "Automatización de tareas repetitivas en Discord.",
+        "Division de canales reducidos 'Aulas Reducidas'.",
+        "Asistencía de alumnos en 'Escuela de Programación de Godoy Cruz'.",
+        "Uso de Discord.js y Google APIs."
       ],
       "url": "https://github.com/AvLeo/bot-discord"
     },
     {
       "name": "wspbot-cdf",
       "isActive": true,
-      "description": "Bot para WhatsApp desarrollado para facilitar la interacción automatizada y mejorar la gestión de contactos.",
+      "description": "Bot para WhatsApp desarrollado para facilitar la asistencia a clientes en tiempo real, brindando información en relación de los cursos/talleres realizados en Casa del Futuro. Utilizando la libreria whatsapp-web.js.",
       "highlights": [
         "Desarrollo de funciones de mensajería automatizada.",
-        "Integración con la API de WhatsApp para la gestión de mensajes."
+        "Integración con libreria de whatsapp-web.js.",
+        "Devolución de información del curso/taller en tiempo real.",
+        "Petición de certificados de cursos/talleres."
       ],
       "url": "https://github.com/AvLeo/wspbot-cdf"
+    },
+    {
+      "name": "Javascript desde Cero",
+      "isActive": true,
+      "description": "Curso de JavaScript desde cero con HTML y CSS.",
+      "highlights": [
+        "Desarrollo de conceptos fundamentales de JavaScript.",
+        "Ejemplos prácticos con HTML y CSS."
+      ],
+      "url": "https://github.com/AvLeo/Javascript-desde-cero-EDP"
     }
   ]
 }
