@@ -95,10 +95,22 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Platzi Certificates",
+      "date": "2022-8-01",
+      "issuer": "Javascript",
+      "url": "https://platzi.com/p/leito.avila.sm/"
+    },
+    {
+      "name": "Escuela de Programación",
+      "date": "2022-8-01",
+      "issuer": "IA Python",
+      "url": "https://platzi.com/p/leito.avila.sm/"
+    },
+    {
+      "name": "Spaces Apps Challenge",
+      "date": "2022-8-01",
+      "issuer": "Mentor",
+      "url": "https://drive.google.com/file/d/1DoCtqAKWL_az4pSc_gcozmeli3BN5YOj/view?usp=sharing"
     }
   ],
   "skills": [
@@ -183,7 +195,7 @@
     {
       "name": "bot-discord",
       "isActive": true,
-      "description": "Bot de Discord desarrollado para la automatización de tareas y mejora de la interacción en servidores de Discord. Creado con el principal objetivo de facilitar la Asistencia de Alumnos en 'Escuela de Programación de Godoy Cruz', Gestionar roles, Gestión de 'Aulas reducidas', entre otros. Utiliza Discord.js y Google APIs.",
+      "description": "Bot de Discord creado para automatizar tareas y mejorar la interacción en servidores, enfocado en facilitar la Asistencia de Alumnos en 'Escuela de Programación de Godoy Cruz', así como gestionar roles, 'Aulas reducidas' y más, utilizando Discord.js y Google APIs.",
       "highlights": [
         "Implementación de comandos personalizados.",
         "Automatización de tareas repetitivas en Discord.",
