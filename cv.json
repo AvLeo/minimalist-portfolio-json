@@ -191,6 +191,7 @@
         "Asistencía de alumnos en 'Escuela de Programación de Godoy Cruz'.",
         "Uso de Discord.js y Google APIs."
       ],
+      "github": "https://github.com/AvLeo/bot-discord",
       "url": "https://github.com/AvLeo/bot-discord"
     },
     {
@@ -203,6 +204,7 @@
         "Devolución de información del curso/taller en tiempo real.",
         "Petición de certificados de cursos/talleres."
       ],
+      "github": "https://github.com/AvLeo/wspbot-cdf",
       "url": "https://github.com/AvLeo/wspbot-cdf"
     },
     {
@@ -213,6 +215,7 @@
         "Desarrollo de conceptos fundamentales de JavaScript.",
         "Ejemplos prácticos con HTML y CSS."
       ],
+      "github": "https://github.com/AvLeo/Javascript-desde-cero-EDP",
       "url": "https://github.com/AvLeo/Javascript-desde-cero-EDP"
     }
   ]

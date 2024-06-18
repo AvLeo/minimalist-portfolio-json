@@ -191,7 +191,7 @@
         "Student attendance assistance at 'Escuela de Programación de Godoy Cruz'.",
         "Use of Discord.js and Google APIs."
       ],
-      "url": "https://github.com/AvLeo/bot-discord"
+      "github": "https://github.com/AvLeo/bot-discord"
     },
     {
       "name": "wspbot-cdf",
@@ -203,7 +203,7 @@
         "Real-time course/workshop information retrieval.",
         "Requesting course/workshop certificates."
       ],
-      "url": "https://github.com/AvLeo/wspbot-cdf"
+      "github": "https://github.com/AvLeo/wspbot-cdf"
     },
     {
       "name": "JavaScript from Scratch",
@@ -213,7 +213,7 @@
         "Development of fundamental JavaScript concepts.",
         "Practical examples with HTML and CSS."
       ],
-      "url": "https://github.com/AvLeo/Javascript-desde-cero-EDP"
+      "github": "https://github.com/AvLeo/Javascript-desde-cero-EDP"
     }
   ]
 }
